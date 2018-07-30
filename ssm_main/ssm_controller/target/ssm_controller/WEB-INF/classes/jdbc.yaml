@@ -1,0 +1,14 @@
+jdbc.Url : jdbc:mysql://localhost:3306/ssm?useSSL=true&characterEncoding=UTF-8
+jdbc.Driver : com.mysql.jdbc.Driver
+jdbc.username : root
+jdbc.password : root
+
+#c3p0配置
+c3p0.acquireIncrement : 3
+c3p0.initialPoolSize : 3
+c3p0.idleConnectionTestPeriod : 60
+c3p0.minPoolSize : 5
+c3p0.maxPoolSize : 100
+c3p0.maxStatements : 100
+c3p0.numHelperThreads : 10
+c3p0.maxIdleTime : 6

@@ -1,0 +1,4 @@
+cn\sise\ssm\controller\UserController.class
+cn\sise\ssm\interceptor\LoginInterceptor.class
+cn\sise\ssm\controller\CategoryController.class
+cn\sise\ssm\controller\NewsController.class
